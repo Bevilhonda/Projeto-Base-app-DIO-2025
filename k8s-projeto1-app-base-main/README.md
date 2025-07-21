@@ -33,4 +33,5 @@ Para deletar/derrubar a infraestrutura também é necessário dar permissão ao 
 
 ### Arquitetura do Projeto
 
-![Architecture image](k8s-projeto1-app-base-main/assets/k8s-infra.png)
+![Architecture image](assets/k8s-infra.png)
+
